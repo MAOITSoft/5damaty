@@ -1,3 +1,7 @@
 http://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_1_-_understanding_the_xamarin_mobile_platform/
 
 http://developer.xamarin.com/guides/cross-platform/xamarin-forms/introduction-to-xamarin-forms/
+
+
+Android totorials
+https://www.youtube.com/watch?v=6Jx7ZNZL9dk&list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l87e7b3cceebafd2b8249ac4cc7de76b957683b6d
