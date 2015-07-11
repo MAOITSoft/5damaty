@@ -5,3 +5,5 @@ http://developer.xamarin.com/guides/cross-platform/xamarin-forms/introduction-to
 
 Android totorials
 https://www.youtube.com/watch?v=6Jx7ZNZL9dk&list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l87e7b3cceebafd2b8249ac4cc7de76b957683b6d
+
+https://www.youtube.com/user/Jodyrock11/videos
